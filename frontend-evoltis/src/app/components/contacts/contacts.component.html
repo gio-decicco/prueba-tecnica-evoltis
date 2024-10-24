@@ -1,0 +1,46 @@
+<div class="container">
+    <p-panel header="Developer Information" [style]="{ 'max-width': '95vw' }">
+        <form [formGroup]="form">
+            <div class="formgrid grid">
+                <div class="field col-12 md:col-6">
+                    <label for="name">Name</label>
+                    <input formControlName="name" pInputText class="w-full" id="name" type="text" readonly>
+                </div>
+                <div class="field col-12 md:col-6">
+                    <label for="email">Email</label>
+                    <input formControlName="email" pInputText class="w-full" id="email" type="email"
+                        placeholder="Your Email" readonly>
+                </div>
+                <div class="field col-12">
+                    <label for="skills">Skills</label>
+                    <input formControlName="skills" pInputText class="w-full" id="skills" type="text" readonly>
+                </div>
+                <div class="field col-12 text-center">
+                    <p>Soy egresado de la carrera 'Tecnicatura Universitaria en Programación' de la UTN en Córdoba. 
+                        Realmente un apasionado por el desarrollo de software, el probar, el armar y desarmar para ver como funciona. 
+                        </p>
+                    <p>
+                        Actualmente trabajo en Coovilros Ltda. una cooperativa de servicios a la cual le he dedicado mucho esfuerzo y es una 
+                        institucion que quiero mucho. Actualmente me ecuentro en búsqueda de otras oportunidades en una empresa dedicada 
+                        realmente al mundo tech, sin apuro pero sin dejar pasar las buenas oportunidades.
+                    </p>
+                    <p>
+                        En mi tiempo libre me gusta hacer mucho deporte, coordinar servidores que tengo en casa para controlar la red domotica.
+                        Practico mucho el desarrollo de aplicaciones las cuales me interesa saber como funciona, como se programan, como se manejan
+                        los datos en ellas, etc.
+                    </p>
+                    <p>
+                        En cuanto a mis soft skills, soy muy bueno trabajando en equipo, me gusta recibir ordenes y a la vez puedo encontrar cosas
+                        para hacer en el tiempo que no estoy bajo las mismas. Mi principal capacidad es resolver problemas de manera rápida, eficiente
+                        y escalable a futuro, soy muy detallista, no puedo hacer mi trabajo a medias, me gusta que quede lo más perfecto posible.
+                    </p>
+                    <p>
+                        Estoy emocionado por el progreso laboral que se viene y siempre estoy abierto a aprender nuevas tecnologías y metodologías 
+                        que me ayuden a crecer como profesional. Espero poder contribuir con mis habilidades y experiencia en un entorno que valore 
+                        la innovación y la colaboración. Agradezco cualquier oportunidad para seguir desarrollándome en el ámbito de la programación y la tecnología. 
+                    </p>
+                </div>
+            </div>
+        </form>
+    </p-panel>
+</div>

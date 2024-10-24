@@ -23,39 +23,49 @@
 .history/
 
 # Angular
-/dist/
 /node_modules/
-/package-lock.json
+/dist/
 /npm-debug.log*
 /yarn-debug.log*
 /yarn-error.log*
 /.pnpm-debug.log
 
-# Other
-*.pdb
-*.ilk
-*.log
-*.sbr
-*.idb
-*.idb.*
-*.db
-*.dcu
-*.dsk
-*.plg
-*.cache
-*.tmp
+# IDE specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
 
-# OS generated files
+# Operating system files
 .DS_Store
 Thumbs.db
 
-# Ignore all files in the root except for certain folders
-/*
-!.gitignore
+# Compiled source
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pdb
+*.idb
+
+# Logs
+*.log
+
+# Ignore compiled files
+*.js
+*.js.map
+*.css
+*.css.map
+
+# Ignore local environment settings
+.env
+.env.local
+
+# Allow essential files and folders
 !/src/
 !/angular.json
 !/package.json
 !/tsconfig.json
 !/tsconfig.app.json
 !/tsconfig.spec.json
-!/node_modules/
+frontend-evoltis/node_modules/* 

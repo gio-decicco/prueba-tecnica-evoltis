@@ -1,0 +1,36 @@
+<div class="container">
+    <p-panel header="Modify Client" [style]="{ 'max-width': '95vw' }">
+        <form [formGroup]="form" (ngSubmit)="createClient()">
+            <div class="formgrid grid">
+                <div class="field col">
+                    <label for="username">Name</label>
+                    <input class="w-full" formControlName="name" pInputText type="text" placeholder="Name">
+                </div>
+                <div class="field col">
+                    <label for="username">Surname</label>
+                    <input class="w-full" formControlName="surname" pInputText type="text" placeholder="Surname">
+                </div>
+                <div class="field col">
+                    <label for="username">Email</label>
+                    <input class="w-full" formControlName="email" pInputText type="email" placeholder="Email">
+                </div>
+                <div class="field col align-content-end">
+                    <label for="username">Services</label>
+                    <p-multiSelect
+                        [options]="(services$ | async) ?? []" 
+                        [style]="{'width': '100%'}"
+                        [maxSelectedLabels]="0"
+                        formControlName="services"
+                        optionValue="id"
+                        optionLabel="description" 
+                        placeholder="Select services" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <button type="submit" class="w-full mb-2" pButton size="small" label="Modify"></button>
+                </div>
+            </div>
+        </form>
+    </p-panel>
+</div>
