@@ -1,0 +1,1 @@
+C:\git\prueba tecnica evoltis\backend-evoltis\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

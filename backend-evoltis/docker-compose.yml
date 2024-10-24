@@ -1,0 +1,30 @@
+services:
+  backend-evoltis.api:
+    image: backendevoltisapi
+    ports:
+      - "8080:80"
+    networks:
+      - app-network
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Server=db;Database=evoltis;Uid=root;Pwd=1243;
+
+  db:
+    image: mysql:8.0
+    restart: always
+    networks:
+      - app-network
+    environment:
+      MYSQL_DATABASE: evoltis
+      MYSQL_USER: root
+      MYSQL_PASSWORD: 1243
+      MYSQL_ROOT_PASSWORD: 1243
+    volumes:
+      - db_data:/var/lib/mysql
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db_data:

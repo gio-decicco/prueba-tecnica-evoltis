@@ -1,0 +1,34 @@
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.deps.json
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.runtimeconfig.json
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.pdb
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.csproj.AssemblyReference.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.AssemblyInfoInputs.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.AssemblyInfo.cs
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-.6EC6425C.Up2Date
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\refint\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.pdb
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.genruntimeconfig.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\ref\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.deps.json
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.runtimeconfig.json
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.pdb
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\bin\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.csproj.AssemblyReference.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.AssemblyInfoInputs.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.AssemblyInfo.cs
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-.6EC6425C.Up2Date
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\refint\backend-evoltis.INFRAESTRUCTURE.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.pdb
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\backend-evoltis.INFRAESTRUCTURE.genruntimeconfig.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.INFRAESTRUCTURE\obj\Debug\net8.0\ref\backend-evoltis.INFRAESTRUCTURE.dll

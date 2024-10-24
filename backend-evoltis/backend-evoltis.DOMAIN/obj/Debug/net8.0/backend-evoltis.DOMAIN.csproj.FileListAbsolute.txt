@@ -1,0 +1,26 @@
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.deps.json
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.AssemblyInfoInputs.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.AssemblyInfo.cs
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.csproj.CoreCompileInputs.cache
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\refint\backend-evoltis.DOMAIN.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\ref\backend-evoltis.DOMAIN.dll
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.runtimeconfig.json
+C:\git\prueba tecnica evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.genruntimeconfig.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.deps.json
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.runtimeconfig.json
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\bin\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.AssemblyInfoInputs.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.AssemblyInfo.cs
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.csproj.CoreCompileInputs.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\refint\backend-evoltis.DOMAIN.dll
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.pdb
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\backend-evoltis.DOMAIN.genruntimeconfig.cache
+C:\git\prueba-tecnica-evoltis\backend-evoltis\backend-evoltis.DOMAIN\obj\Debug\net8.0\ref\backend-evoltis.DOMAIN.dll

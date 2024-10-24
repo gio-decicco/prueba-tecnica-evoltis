@@ -1,0 +1,57 @@
+name: dockercompose7281591061966487431
+services:
+  backend-evoltis.api:
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Server=db;Database=evoltis;Uid=root;Pwd=1243;
+    image: backendevoltisapi
+    networks:
+      app-network: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Usuario\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Usuario\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  db:
+    environment:
+      MYSQL_DATABASE: evoltis
+      MYSQL_PASSWORD: "1243"
+      MYSQL_ROOT_PASSWORD: "1243"
+      MYSQL_USER: root
+    image: mysql:8.0
+    networks:
+      app-network: null
+    restart: always
+    volumes:
+      - type: volume
+        source: db_data
+        target: /var/lib/mysql
+        volume: {}
+networks:
+  app-network:
+    name: dockercompose7281591061966487431_app-network
+    driver: bridge
+volumes:
+  db_data:
+    name: dockercompose7281591061966487431_db_data

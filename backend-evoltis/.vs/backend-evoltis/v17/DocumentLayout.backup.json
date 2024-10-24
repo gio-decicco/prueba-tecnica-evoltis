@@ -1,0 +1,919 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\services\\imp\\servicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\services\\imp\\servicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\services\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\services\\iservicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\queries\\getservices_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\queries\\getservices_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\services\\getservices_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\services\\getservices_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|solutionrelative:backend-evoltis\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|solutionrelative:backend-evoltis\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\services\\imp\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\services\\imp\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\clients\\getclients_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\clients\\getclients_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\clients\\modifyclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\clients\\modifyclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\context\\evoltiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\context\\evoltiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\queries\\getclients_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\queries\\getclients_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\commands\\postclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\commands\\postclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\clients\\postclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\clients\\postclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\backend-evoltis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|solutionrelative:backend-evoltis\\backend-evoltis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|solutionrelative:backend-evoltis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\clients\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\clients\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\clients\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\services\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\services\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\backend-evoltis.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\backend-evoltis.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\entities\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\entities\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\services\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\services\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC58938D-686A-42F1-B405-67F8EFB92441}|backend-evoltis\\backend-evoltis.API.csproj|solutionrelative:backend-evoltis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\migrations\\20241021215326_primeramigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\migrations\\20241021215326_primeramigracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\migrations\\evoltiscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\migrations\\evoltiscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\backend-evoltis.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\backend-evoltis.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\services\\postservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\services\\postservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\services\\modifyservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\services\\modifyservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\services\\deleteservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\services\\deleteservice_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\services\\getservicebyid_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\services\\getservicebyid_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\clients\\deleteclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\clients\\deleteclient_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\commands\\modifyclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\commands\\modifyclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\handlers\\clients\\getclientbyid_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\handlers\\clients\\getclientbyid_business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\services\\getservicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\services\\getservicesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\dtos\\clients\\getclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\dtos\\clients\\getclientsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\commands\\deleteservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\commands\\deleteservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\commands\\modifyservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\commands\\modifyservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\commands\\postservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\commands\\postservice_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\queries\\getservicebyid_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\queries\\getservicebyid_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\services\\requests\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\services\\requests\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\requests\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\requests\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\queries\\getclientbyid_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\queries\\getclientbyid_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\clients\\commands\\deleteclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\clients\\commands\\deleteclient_command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.domain\\backend-evoltis.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D3821B-C020-4B2E-9A89-5FC1BE6E9663}|backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj|solutionrelative:backend-evoltis.domain\\backend-evoltis.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.core\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B050F8-7EF6-481F-8242-7489CAFD9607}|backend-evoltis.CORE\\backend-evoltis.APP.csproj|solutionrelative:backend-evoltis.core\\models\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\migrations\\20241021215326_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\migrations\\20241021215326_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|c:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.infraestructure\\migrations\\20241023222933_seedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E390D3B3-2D57-4409-824D-8CFFE8FB7C51}|backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj|solutionrelative:backend-evoltis.infraestructure\\migrations\\20241023222933_seedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:09:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetServices_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\GetServices_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Services\\GetServices_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\GetServices_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Services\\GetServices_Business.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:50.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "backend-evoltis\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "backend-evoltis\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:32:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetServices_Query.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Queries\\GetServices_Query.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Queries\\GetServices_Query.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Queries\\GetServices_Query.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Queries\\GetServices_Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:08:37.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicesService.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\IServicesService.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Services\\IServicesService.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\IServicesService.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Services\\IServicesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:51:52.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesService.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\Imp\\ServicesService.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Services\\Imp\\ServicesService.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\Imp\\ServicesService.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Services\\Imp\\ServicesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:38:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Interfaces\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\Interfaces\\IServiceRepository.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Interfaces\\IServiceRepository.cs",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\Interfaces\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:08:59.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:09:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModifyClient_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\ModifyClient_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Clients\\ModifyClient_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\ModifyClient_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Clients\\ModifyClient_Business.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:12.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:09:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\Imp\\ClientsService.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Services\\Imp\\ClientsService.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\Imp\\ClientsService.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Services\\Imp\\ClientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:39:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetClients_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\GetClients_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Clients\\GetClients_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\GetClients_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Clients\\GetClients_Business.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "backend-evoltis\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "backend-evoltis\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:31:58.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Services\\IClientService.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Services\\IClientService.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Services\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:52:04.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetClients_Query.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClients_Query.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClients_Query.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClients_Query.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClients_Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostClient_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\PostClient_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Commands\\PostClient_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\PostClient_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Commands\\PostClient_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:09.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241023222933_SeedServices.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241023222933_SeedServices.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241023222933_SeedServices.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241023222933_SeedServices.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241023222933_SeedServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:29:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EvoltisContext.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Context\\EvoltisContext.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Context\\EvoltisContext.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Context\\EvoltisContext.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Context\\EvoltisContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:43:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostClient_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\PostClient_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Clients\\PostClient_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\PostClient_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Clients\\PostClient_Business.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "backend-evoltis.APP.csproj",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\backend-evoltis.APP.csproj",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\backend-evoltis.APP.csproj",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\backend-evoltis.APP.csproj",
+              "RelativeToolTip": "backend-evoltis.CORE\\backend-evoltis.APP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T02:41:41.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "backend-evoltis.API.csproj",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\backend-evoltis.API.csproj",
+              "RelativeDocumentMoniker": "backend-evoltis\\backend-evoltis.API.csproj",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\backend-evoltis.API.csproj",
+              "RelativeToolTip": "backend-evoltis\\backend-evoltis.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T02:58:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAJgBAAAAAAAAAAAjwLEBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-23T02:37:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAjwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-23T21:32:32.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\appsettings.json",
+              "RelativeDocumentMoniker": "backend-evoltis\\appsettings.json",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\appsettings.json",
+              "RelativeToolTip": "backend-evoltis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T19:52:36.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\ClientDto.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Clients\\ClientDto.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\ClientDto.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Clients\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:01:11.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Services\\ServiceResponse.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\ServiceResponse.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Services\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Clients\\ClientResponse.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\ClientResponse.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Clients\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:03:32.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\Entities\\Client.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\Client.cs",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:45:20.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\Entities\\Service.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\Service.cs",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:46:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Utils\\MappingProfile.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:40:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "backend-evoltis.INFRAESTRUCTURE.csproj",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\backend-evoltis.INFRAESTRUCTURE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T02:42:29.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\ClientService.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\Entities\\ClientService.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\Entities\\ClientService.cs",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\Entities\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:47:03.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceDto.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\ServiceDto.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Services\\ServiceDto.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\ServiceDto.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Services\\ServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:03:56.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Program.cs",
+              "RelativeDocumentMoniker": "backend-evoltis\\Program.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis\\Program.cs",
+              "RelativeToolTip": "backend-evoltis\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:40:45.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241021215326_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADgv1cAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:53:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241021215326_PrimeraMigracion.Designer.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.Designer.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.Designer.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.Designer.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\20241021215326_PrimeraMigracion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:56:07.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EvoltisContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\EvoltisContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\EvoltisContextModelSnapshot.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.INFRAESTRUCTURE\\Migrations\\EvoltisContextModelSnapshot.cs",
+              "RelativeToolTip": "backend-evoltis.INFRAESTRUCTURE\\Migrations\\EvoltisContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:56:15.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PostService_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\PostService_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Services\\PostService_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\PostService_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Services\\PostService_Business.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:31.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ModifyService_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\ModifyService_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Services\\ModifyService_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\ModifyService_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Services\\ModifyService_Business.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:06:07.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetServiceById_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\GetServiceById_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Services\\GetServiceById_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\GetServiceById_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Services\\GetServiceById_Business.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:39.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteService_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\DeleteService_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Services\\DeleteService_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Services\\DeleteService_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Services\\DeleteService_Business.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:06:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteClient_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\DeleteClient_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Clients\\DeleteClient_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\DeleteClient_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Clients\\DeleteClient_Business.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ModifyClient_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\ModifyClient_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Commands\\ModifyClient_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\ModifyClient_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Commands\\ModifyClient_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:20.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetClientById_Business.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\GetClientById_Business.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Handlers\\Clients\\GetClientById_Business.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Handlers\\Clients\\GetClientById_Business.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Handlers\\Clients\\GetClientById_Business.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:05:02.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetServicesDto.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\GetServicesDto.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Services\\GetServicesDto.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Services\\GetServicesDto.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Services\\GetServicesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetClientsDto.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\GetClientsDto.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\DTOs\\Clients\\GetClientsDto.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\DTOs\\Clients\\GetClientsDto.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\DTOs\\Clients\\GetClientsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:00:53.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteService_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\DeleteService_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Commands\\DeleteService_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\DeleteService_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Commands\\DeleteService_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:08:15.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ModifyService_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\ModifyService_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Commands\\ModifyService_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\ModifyService_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Commands\\ModifyService_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:08:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PostService_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\PostService_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Commands\\PostService_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Commands\\PostService_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Commands\\PostService_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetServiceById_Query.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Queries\\GetServiceById_Query.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Queries\\GetServiceById_Query.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Queries\\GetServiceById_Query.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Queries\\GetServiceById_Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:08:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Requests\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Services\\Requests\\ServiceRequest.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Services\\Requests\\ServiceRequest.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Services\\Requests\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:58:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ClientRequest.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Requests\\ClientRequest.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Requests\\ClientRequest.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Requests\\ClientRequest.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Requests\\ClientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:57:52.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetClientById_Query.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClientById_Query.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClientById_Query.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClientById_Query.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Queries\\GetClientById_Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:37.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteClient_Command.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\DeleteClient_Command.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\Clients\\Commands\\DeleteClient_Command.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\Clients\\Commands\\DeleteClient_Command.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\Clients\\Commands\\DeleteClient_Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:07:26.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\BaseResult.cs",
+              "RelativeDocumentMoniker": "backend-evoltis.CORE\\Models\\BaseResult.cs",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.CORE\\Models\\BaseResult.cs",
+              "RelativeToolTip": "backend-evoltis.CORE\\Models\\BaseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:59:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "backend-evoltis.DOMAIN.csproj",
+              "DocumentMoniker": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj",
+              "RelativeDocumentMoniker": "backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj",
+              "ToolTip": "C:\\git\\prueba-tecnica-evoltis\\backend-evoltis\\backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj",
+              "RelativeToolTip": "backend-evoltis.DOMAIN\\backend-evoltis.DOMAIN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T02:41:57.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
